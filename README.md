@@ -8,10 +8,10 @@ Structure of this repository:
 -----------------------------
 
 * One file per topic (e.g. Javascript, Git, etc). 
-** If the topic contains more than one file, a directory is created. 
-** A topic can be freely extended using pull requests
-** the knowledge shared on this repository is considered open, thus feel free to use it!
+  * If the topic contains more than one file, a directory is created. 
+  * A topic can be freely extended using pull requests
+  * the knowledge shared on this repository is considered open, thus feel free to use it!
 
 * One file for Meetups
-** documents all meetups that have taken place or have been planned.
+  * documents all meetups that have taken place or have been planned.
 
