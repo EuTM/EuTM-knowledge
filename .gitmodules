@@ -1,0 +1,3 @@
+[submodule "gulp_broccoli"]
+	path = gulp_broccoli
+	url = https://github.com/chmanie/EUTM-gulpoccoli.git
